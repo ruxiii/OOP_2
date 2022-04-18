@@ -1,6 +1,7 @@
                                                                   DOCUMENTATIE
 
 Am realizat 3 clase pentru acest proiect: clasa mama Airline si cele doua clase copil: Continental Flights, respectiv Intercontinental Flights.
+      
       1.	Clasa Airline
               -	am realizat set-eri si get-eri pentru toate atributele clasei: name, location, personal si budget, cu scopul obtinerii valorilor lor
               -	am supraincarcat operatorii de citire si afisare
